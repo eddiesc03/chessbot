@@ -1,0 +1,22 @@
+path: dataset  # Root folder containing 'images/' and 'labels/'
+
+train: images/train  # Path to training images
+val: images/val      # Path to validation images
+
+nc: 14  # Number of classes
+
+names:
+  - e
+  - h
+  - wp
+  - wk
+  - wb
+  - wr
+  - wq
+  - wn
+  - bn
+  - bp
+  - bk
+  - bb
+  - br
+  - bq

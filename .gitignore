@@ -1,0 +1,10 @@
+dataset/
+runs/
+labels/
+training_pics/
+stockfish/
+labeled_pieces/
+
+*.pt
+*.onnx
+*.engine
